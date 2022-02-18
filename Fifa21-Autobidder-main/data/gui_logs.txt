@@ -1,0 +1,150 @@
+[02:46:25 PM]  - - - - Bot started - - - - 
+[02:46:25 PM] Auto logging in...
+[02:46:25 PM] L
+[03:09:08 PM]  - - - - Bot started - - - - 
+[03:09:08 PM] Autobidder started
+[03:13:22 PM]  - - - - Bot started - - - - 
+[03:13:22 PM] Auto logging in...
+[03:13:22 PM] L
+[08:27:28 PM]  - - - - Bot started - - - - 
+[08:27:28 PM] Autobidder started
+[08:27:29 PM] Fetching futbin prices... 
+[08:27:38 PM] User broke futbin fetch, self.botRunning false
+[08:27:38 PM] - - - - FINISHED ALL BID ROUNDS - - - 
+[08:27:38 PM] at main function end, popup text was: 
+[08:27:38 PM] STOPPED at master end of Test main function
+[08:31:30 PM]  - - - - Bot started - - - - 
+[08:31:30 PM] Autobidder started
+[08:31:31 PM] Fetching futbin prices... 
+[08:31:38 PM] User broke futbin fetch, self.botRunning false
+[08:31:39 PM] - - - - FINISHED ALL BID ROUNDS - - - 
+[08:31:39 PM] at main function end, popup text was: 
+[08:31:39 PM] STOPPED at master end of Test main function
+[08:38:39 PM]  - - - - Bot started - - - - 
+[08:38:39 PM] Autobidder started
+[08:38:40 PM] Fetching futbin prices... 
+[08:38:48 PM] User broke futbin fetch, self.botRunning false
+[08:38:48 PM] - - - - FINISHED ALL BID ROUNDS - - - 
+[08:38:48 PM] at main function end, popup text was: 
+[08:38:48 PM] STOPPED at master end of Test main function
+[08:40:30 PM] Autobidder started
+[08:40:31 PM] Fetching futbin prices... 
+[08:40:38 PM] User broke futbin fetch, self.botRunning false
+[08:40:38 PM] - - - - FINISHED ALL BID ROUNDS - - - 
+[08:40:38 PM] at main function end, popup text was: 
+[08:40:38 PM] STOPPED at master end of Test main function
+[08:40:45 PM] Autobidder started
+[08:40:46 PM] Fetching futbin prices... 
+[08:40:53 PM] User broke futbin fetch, self.botRunning false
+[08:40:53 PM] - - - - FINISHED ALL BID ROUNDS - - - 
+[08:40:53 PM] at main function end, popup text was: 
+[08:40:53 PM] STOPPED at master end of Test main function
+[08:42:21 PM] Autobidder started
+[08:42:22 PM] Fetching futbin prices... 
+[08:42:29 PM] User broke futbin fetch, self.botRunning false
+[08:42:29 PM] - - - - FINISHED ALL BID ROUNDS - - - 
+[08:42:29 PM] at main function end, popup text was: 
+[08:42:29 PM] STOPPED at master end of Test main function
+[11:45:32 PM] Autobidder started
+[11:45:33 PM] Fetching futbin prices... 
+[11:53:44 PM]  - - - - Bot started - - - - 
+[11:53:44 PM] Autobidder started
+[11:53:45 PM] Fetching futbin prices... 
+[11:55:54 PM] BID 2: Herrera - CurBid: 300 -> Bid to make: 500 -> Sell price 650 -> Minus EA tax: 617.5-> Est. Profit: 117.5
+[11:56:07 PM] BID 3: Hughes - CurBid: 300 -> Bid to make: 600 -> Sell price 750 -> Minus EA tax: 712.5-> Est. Profit: 112.5
+[11:56:17 PM] BID 4: Ander Herrera - CurBid: 300 -> Bid to make: 400 -> Sell price 550 -> Minus EA tax: 522.5-> Est. Profit: 122.5
+[11:56:24 PM] BID 5: Adli - CurBid: 250 -> Bid to make: 400 -> Sell price 550 -> Minus EA tax: 522.5-> Est. Profit: 122.5
+[11:56:33 PM] BID 6: van Ginkel - CurBid: 300 -> Bid to make: 500 -> Sell price 650 -> Minus EA tax: 617.5-> Est. Profit: 117.5
+[11:56:40 PM] BID 7: Capoue - CurBid: 450 -> Bid to make: 500 -> Sell price 650 -> Minus EA tax: 617.5-> Est. Profit: 117.5
+[11:56:50 PM] BID 8: Davies - CurBid: 250 -> Bid to make: 600 -> Sell price 750 -> Minus EA tax: 712.5-> Est. Profit: 112.5
+[11:57:02 PM] BID 9: Rodríguez - CurBid: 250 -> Bid to make: 900 -> Sell price 1100 -> Minus EA tax: 1045.0-> Est. Profit: 145.0
+[11:57:18 PM] BID 10: Pjanić - CurBid: 400 -> Bid to make: 850 -> Sell price 1000 -> Minus EA tax: 950.0-> Est. Profit: 100.0
+[11:57:25 PM] BID 11: Sanson - CurBid: 350 -> Bid to make: 650 -> Sell price 800 -> Minus EA tax: 760.0-> Est. Profit: 110.0
+[11:57:39 PM] BID 12: Freuler - CurBid: 400 -> Bid to make: 600 -> Sell price 750 -> Minus EA tax: 712.5-> Est. Profit: 112.5
+[11:58:04 PM] BID 13: Davies - CurBid: 250 -> Bid to make: 600 -> Sell price 750 -> Minus EA tax: 712.5-> Est. Profit: 112.5
+[11:58:23 PM] BID 14: Ander Guevara - CurBid: 300 -> Bid to make: 450 -> Sell price 600 -> Minus EA tax: 570.0-> Est. Profit: 120.0
+[11:58:31 PM] BID 15: Brownhill - CurBid: 300 -> Bid to make: 600 -> Sell price 750 -> Minus EA tax: 712.5-> Est. Profit: 112.5
+[11:58:38 PM] BID 16: Groß - CurBid: 300 -> Bid to make: 600 -> Sell price 750 -> Minus EA tax: 712.5-> Est. Profit: 112.5
+[11:59:06 PM] BID 17: Noble - CurBid: 250 -> Bid to make: 600 -> Sell price 750 -> Minus EA tax: 712.5-> Est. Profit: 112.5
+[11:59:26 PM] BID 18: Dendoncker - CurBid: 400 -> Bid to make: 650 -> Sell price 800 -> Minus EA tax: 760.0-> Est. Profit: 110.0
+[11:59:59 PM] BID 19: Kucka - CurBid: 300 -> Bid to make: 600 -> Sell price 750 -> Minus EA tax: 712.5-> Est. Profit: 112.5
+[12:00:08 AM] BID 20: Joan Jordán - CurBid: 300 -> Bid to make: 500 -> Sell price 650 -> Minus EA tax: 617.5-> Est. Profit: 117.5
+[12:00:28 AM] BID 21: Sérgio Oliveira - CurBid: 300 -> Bid to make: 400 -> Sell price 550 -> Minus EA tax: 522.5-> Est. Profit: 122.5
+[12:00:43 AM] BID 22: Groß - CurBid: 300 -> Bid to make: 600 -> Sell price 750 -> Minus EA tax: 712.5-> Est. Profit: 112.5
+[12:00:50 AM] BID 23: Vesga - CurBid: 250 -> Bid to make: 450 -> Sell price 600 -> Minus EA tax: 570.0-> Est. Profit: 120.0
+[12:01:10 AM] BID 24: Óliver Torres - CurBid: 300 -> Bid to make: 500 -> Sell price 650 -> Minus EA tax: 617.5-> Est. Profit: 117.5
+[12:01:33 AM] BID 25: Adli - CurBid: 250 -> Bid to make: 400 -> Sell price 550 -> Minus EA tax: 522.5-> Est. Profit: 122.5
+[12:01:41 AM] BID 26: Keïta - CurBid: 350 -> Bid to make: 600 -> Sell price 750 -> Minus EA tax: 712.5-> Est. Profit: 112.5
+[12:01:52 AM] BID 27: Óliver Torres - CurBid: 300 -> Bid to make: 500 -> Sell price 650 -> Minus EA tax: 617.5-> Est. Profit: 117.5
+[12:02:08 AM] BID 28: Ander Herrera - CurBid: 300 -> Bid to make: 400 -> Sell price 550 -> Minus EA tax: 522.5-> Est. Profit: 122.5
+[12:02:34 AM] BID 29: Noble - CurBid: 250 -> Bid to make: 600 -> Sell price 750 -> Minus EA tax: 712.5-> Est. Profit: 112.5
+[12:02:46 AM] BID 30: Noble - CurBid: 250 -> Bid to make: 600 -> Sell price 750 -> Minus EA tax: 712.5-> Est. Profit: 112.5
+[12:03:01 AM] BID 31: Gonzalo Villar - CurBid: 300 -> Bid to make: 1200 -> Sell price 1400 -> Minus EA tax: 1330.0-> Est. Profit: 130.0
+[12:03:25 AM] BID 32: Davies - CurBid: 300 -> Bid to make: 600 -> Sell price 750 -> Minus EA tax: 712.5-> Est. Profit: 112.5
+[12:03:36 AM] BID 33: Rongier - CurBid: 300 -> Bid to make: 400 -> Sell price 550 -> Minus EA tax: 522.5-> Est. Profit: 122.5
+[12:03:44 AM] BID 34: Brownhill - CurBid: 300 -> Bid to make: 600 -> Sell price 750 -> Minus EA tax: 712.5-> Est. Profit: 112.5
+[12:03:59 AM] BID 35: Matheus Nunes - CurBid: 300 -> Bid to make: 400 -> Sell price 550 -> Minus EA tax: 522.5-> Est. Profit: 122.5
+[12:04:33 AM] BID 36: Ander Herrera - CurBid: 300 -> Bid to make: 400 -> Sell price 550 -> Minus EA tax: 522.5-> Est. Profit: 122.5
+[12:04:49 AM] BID 37: Dallas - CurBid: 300 -> Bid to make: 700 -> Sell price 850 -> Minus EA tax: 807.5-> Est. Profit: 107.5
+[12:05:16 AM] BID 38: Jordi Quintillà - CurBid: 250 -> Bid to make: 400 -> Sell price 550 -> Minus EA tax: 522.5-> Est. Profit: 122.5
+[12:05:23 AM] BID 39: Gerhardt - CurBid: 300 -> Bid to make: 450 -> Sell price 600 -> Minus EA tax: 570.0-> Est. Profit: 120.0
+[12:05:31 AM] BID 40: André Gomes - CurBid: 300 -> Bid to make: 600 -> Sell price 750 -> Minus EA tax: 712.5-> Est. Profit: 112.5
+[12:05:47 AM] BID 41: Tchouaméni - CurBid: 300 -> Bid to make: 400 -> Sell price 550 -> Minus EA tax: 522.5-> Est. Profit: 122.5
+[12:06:07 AM] BID 42: Capoue - CurBid: 300 -> Bid to make: 500 -> Sell price 650 -> Minus EA tax: 617.5-> Est. Profit: 117.5
+[12:06:14 AM] BID 43: Tomás Pina - CurBid: 300 -> Bid to make: 450 -> Sell price 600 -> Minus EA tax: 570.0-> Est. Profit: 120.0
+[12:06:29 AM] BID 44: Capoue - CurBid: 450 -> Bid to make: 500 -> Sell price 650 -> Minus EA tax: 617.5-> Est. Profit: 117.5
+[12:06:36 AM] BID 45: Riqui Puig - CurBid: 300 -> Bid to make: 450 -> Sell price 600 -> Minus EA tax: 570.0-> Est. Profit: 120.0
+[12:06:57 AM] BID 46: Denis Suárez - CurBid: 300 -> Bid to make: 450 -> Sell price 600 -> Minus EA tax: 570.0-> Est. Profit: 120.0
+[12:07:03 AM] BID 47: Demirbay - CurBid: 350 -> Bid to make: 450 -> Sell price 600 -> Minus EA tax: 570.0-> Est. Profit: 120.0
+[12:07:11 AM] BID 48: Pere Pons - CurBid: 250 -> Bid to make: 450 -> Sell price 600 -> Minus EA tax: 570.0-> Est. Profit: 120.0
+[12:07:28 AM] BID 49: Castrovilli - CurBid: 300 -> Bid to make: 400 -> Sell price 550 -> Minus EA tax: 522.5-> Est. Profit: 122.5
+[12:07:53 AM] BID 50: Vukčević - CurBid: 250 -> Bid to make: 450 -> Sell price 600 -> Minus EA tax: 570.0-> Est. Profit: 120.0
+[12:08:00 AM] BID 51: Rodríguez - CurBid: 250 -> Bid to make: 900 -> Sell price 1100 -> Minus EA tax: 1045.0-> Est. Profit: 145.0
+[12:08:16 AM] PopupBox Watchlist is full popup - clicked OK
+[12:08:17 AM] Total Bids made: 50 Requests: 27
+[12:08:17 AM] Margin: 100
+[12:08:29 AM] Players sold: 0
+[12:08:29 AM] Players expired: 0
+[12:08:29 AM] Players currently listed: 0
+[12:08:29 AM] Players unlisted: 0
+[12:08:34 AM] Going to watchlist
+[12:10:28 AM] LOST PID: 80707375856566 NAME: Keïta SOLDPRICE: 650 POSITION: CM
+[12:10:29 AM] LOST PID: 76727376767077 NAME: Sanson SOLDPRICE: 700 POSITION: CM
+[12:10:29 AM] LOST PID: 76676175815863 NAME: Riqui Puig SOLDPRICE: 500 POSITION: CM
+[12:10:29 AM] LOST PID: 75376776737270 NAME: Noble SOLDPRICE: 650 POSITION: CM
+[12:10:29 AM] LOST PID: 75627075746666 NAME: Adli SOLDPRICE: 450 POSITION: CM
+[12:10:30 AM] LOST PID: 82656883817567 NAME: Pjanić SOLDPRICE: 900 POSITION: CM
+[12:10:30 AM] LOST PID: 75376776737270 NAME: Noble SOLDPRICE: 750 POSITION: CM
+[12:10:31 AM] Cleared expired
+[12:10:37 AM] Players won: 43 expired: 0
+[12:10:42 AM] LIST NAME Sérgio Oliveira | Bought for: 400 | Sell for: 550 | PROF: 122.5
+[12:10:51 AM] LIST NAME Freuler | Bought for: 600 | Sell for: 750 | PROF: 112.5
+[12:10:58 AM] LIST NAME Joan Jordán | Bought for: 500 | Sell for: 650 | PROF: 117.5
+[12:11:06 AM] LIST NAME Ander Herrera | Bought for: 400 | Sell for: 550 | PROF: 122.5
+[12:11:13 AM] LIST NAME Ander Herrera | Bought for: 400 | Sell for: 550 | PROF: 122.5
+[12:11:20 AM] LIST NAME Ander Herrera | Bought for: 400 | Sell for: 550 | PROF: 122.5
+[12:11:27 AM] LIST NAME Demirbay | Bought for: 450 | Sell for: 600 | PROF: 120.0
+[12:11:35 AM] LIST NAME Tchouaméni | Bought for: 400 | Sell for: 550 | PROF: 122.5
+[12:11:42 AM] LIST NAME Capoue | Bought for: 500 | Sell for: 650 | PROF: 117.5
+[12:11:49 AM] LIST NAME Capoue | Bought for: 500 | Sell for: 650 | PROF: 117.5
+[12:11:57 AM] LIST NAME Capoue | Bought for: 500 | Sell for: 650 | PROF: 117.5
+[12:12:04 AM] LIST NAME Denis Suárez | Bought for: 450 | Sell for: 600 | PROF: 120.0
+[12:12:14 AM] LIST NAME Herrera | Bought for: 500 | Sell for: 650 | PROF: 117.5
+[12:12:23 AM] LIST NAME Kucka | Bought for: 600 | Sell for: 750 | PROF: 112.5
+[12:12:32 AM] LIST NAME Óliver Torres | Bought for: 500 | Sell for: 650 | PROF: 117.5
+[12:12:39 AM] LIST NAME Óliver Torres | Bought for: 500 | Sell for: 650 | PROF: 117.5
+[12:57:27 AM] LIST NAME André Gomes | Bought for: 600 | Sell for: 750 | PROF: 112.5
+[12:57:33 AM] - - - - STATISTICS ROUND 1- - -
+[12:57:33 AM] Bids Made: 50 | Requests Made: 27
+[12:57:33 AM] Players won: 43 | Lost: 0
+[12:57:33 AM] Projected profit: 2012.5 | Prof per player: 46.80232558139535
+[12:57:33 AM]  - - - - - - - - - - - -
+[12:57:40 AM] Finished bidround 0
+[12:57:40 AM] BIDROUNDOVER woohoo
+[12:57:45 AM] Sleeping for 1
+[12:57:46 AM] Fetching futbin prices... 
+[11:06:01 AM] Autobidder started
+[11:06:02 AM] at main function end, popup text was: 
+[11:06:02 AM] STOPPED at master end of Test main function
+[11:06:33 AM] Autobidder started
+[11:06:34 AM] Fetching futbin prices... 
